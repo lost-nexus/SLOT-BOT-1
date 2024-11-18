@@ -1,0 +1,13 @@
+{
+    "bot" :{
+        "token" : "",
+        "prefix" : "",
+        "clientId": "",
+        "guildId": ""
+    },
+    "slotCategory": "",
+    "owners": [],
+    "support": {
+        "invite": ""
+    }
+}
