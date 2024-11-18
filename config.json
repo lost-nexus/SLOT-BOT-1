@@ -1,13 +1,13 @@
 {
     "bot" :{
-        "token" : "",
-        "prefix" : "",
-        "clientId": "",
-        "guildId": ""
+        "token" : "MTMwNjY0NDUwMjg2NTUxNDQ5Ng.GX28Xf.BUk6EE1HzS6-HoVcPEJuF2tyS9YEUwe3of4mO4",
+        "prefix" : ",",
+        "clientId": "1306644502865514496",
+        "guildId": "1291959871662456842"
     },
-    "slotCategory": "",
-    "owners": [],
+    "slotCategory": "1305930711055990825",
+    "owners": ["1246017146027245602"],
     "support": {
-        "invite": ""
+        "invite": "https://discord.gg/kumakoshop"
     }
 }
